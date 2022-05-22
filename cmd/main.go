@@ -1,7 +1,7 @@
 package main
 
 import (
-	op "github.com/nodev918/gech/operation"
+	op "github.com/nodev918/gech/src/operation"
 )
 
 func main() {
